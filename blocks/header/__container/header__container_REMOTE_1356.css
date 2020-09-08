@@ -2,12 +2,8 @@
     /* width: calc(100% - 48px - 48px); */
     /* margin: auto; */
     height: 52px;
-<<<<<<< HEAD
-    width: 1182px;
-=======
     /* width: 1184px; */
     width: 95%;
->>>>>>> ea4655c49dab1a91c2e5f4878d0327f84905eddf
     margin-top: 28px;
     border: 1px solid red;
     display: flex;
@@ -18,9 +14,6 @@
     /* opacity: 0.24; */
 }
 
-<<<<<<< HEAD
-/* @media screen and (max-width: 320px) {
-=======
 /* @media screen and (max-width: 1279px) {
     .header__container {
         height: 52px;
@@ -36,7 +29,6 @@
 
 /* 
 @media screen and (max-width: 320px) {
->>>>>>> ea4655c49dab1a91c2e5f4878d0327f84905eddf
     .header__container {
         width: 288px;
         height: 42px;
