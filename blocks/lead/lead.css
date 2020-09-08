@@ -1,0 +1,25 @@
+.lead {
+    width: 984px;
+    height: 1005px;
+    margin-top: 56px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* @media screen and (min-width: 320px) {
+    .lead {
+        width: 320px;
+        height: 406px;
+        margin-top: 48px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;   
+    }
+} */
