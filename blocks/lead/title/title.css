@@ -9,22 +9,13 @@
     width: 720px;
     height: 200px;
     margin: 0px;
-
 }
 
-<<<<<<< HEAD
-/* @media screen and (max-width: 320px) {
-=======
-/* @media screen and (min-width: 320px) {
->>>>>>> ea4655c49dab1a91c2e5f4878d0327f84905eddf
+@media screen and (max-width: 767px) {
     .title {
         width: 288px;
         height: 88px;
-        font-family: Inter;
-        font-style: normal;
-        font-weight: 900;
         font-size: 40px;
         line-height: 44px;
     }
-    
-} */
+}

@@ -5,3 +5,11 @@
     width: 690px;
     margin-left: 148px;
 }
+
+@media screen and (max-width: 767px) {
+    .intro__container {
+        margin-top: 64px;
+        width: 288px;
+        margin-left: 16px;
+    }
+}
