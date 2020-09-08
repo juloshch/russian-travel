@@ -10,7 +10,7 @@
     margin-right: auto;
 }
 
-@media screen and (min-width: 320px) {
+/* @media screen and (min-width: 320px) {
     .lead {
         width: 320px;
         height: 406px;
@@ -22,4 +22,4 @@
         margin-left: auto;
         margin-right: auto;   
     }
-}
+} */
