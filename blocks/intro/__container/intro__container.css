@@ -2,14 +2,26 @@
     margin-top: 92px;
     display: flex;
     flex-direction: column;
-    width: 690px;
-    margin-left: 148px;
+    max-width: 690px;
+    margin-left: calc((100% - 984px)/2);
 }
 
 @media screen and (max-width: 767px) {
     .intro__container {
         margin-top: 64px;
         width: 288px;
-        margin-left: 16px;
+        margin-left: calc((100% - 320px) / 2);
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .intro__container {
+        margin-left: calc((100% - 768px) / 2);
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .intro__container {
+        margin-left: calc((100% - 928px) / 2);
     }
 }
