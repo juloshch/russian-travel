@@ -12,12 +12,12 @@
     }
 }
 
-/* @media screen and (min-width: 768px) and (max-width: 1023px) {
-    .photo-grid {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .places {
         width: 720px;
-        margin-top: 88px;
+        /* margin-top: 88px; */
     }
-} */
+}
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .places {

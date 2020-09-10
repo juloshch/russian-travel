@@ -1,4 +1,4 @@
-.place__heading {
+.place__url-heading {
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
@@ -9,20 +9,20 @@
     margin-top: 0px;
 }
 
-@media screen and (max-width: 767px) {
-    .place__heading {
-        
+/* @media screen and (max-width: 767px) {
+    .place__url-heading {
+        nothing to change
     }
-}
+} */
 
 /* @media screen and (min-width: 768px) and (max-width: 1023px) {
-    .place__heading {
-        
+    .place__url-heading {
+        nothing to change
     }
 } */
 
 /* @media screen and (min-width: 1024px) and (max-width: 1279px) {
-    .place__heading {
+    .place__url-heading {
         
     }
 } */
