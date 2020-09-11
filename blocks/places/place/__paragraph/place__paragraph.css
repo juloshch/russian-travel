@@ -5,3 +5,11 @@
 .place__paragraph:last-child {
     margin-top: 24px;
 }
+
+@media screen and (max-width: 767px) {
+    .place__paragraph {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    
+}
