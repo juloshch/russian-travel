@@ -1,7 +1,39 @@
 .footer {
     width: 1184px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 92px;
+    margin-bottom: 24px;
 
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 767px) {
+    .footer {
+        width: 186px;
+        margin-top: 64px;
+        margin-bottom: 24px;
+        margin-left: calc((100% - 320px)/2);
+        /* margin-left: 16px; */
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .footer {
+        width: 720px;
+        font-size: 14px;
+        line-height: 16px;
+        margin-top: 88px;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .footer {
+        width: 928px;
+    }
 }
