@@ -8,7 +8,6 @@
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__links-wrapper/header__links-wrapper.css);
 @import url(../blocks/header/languages/languages.css);
-@import url(../blocks/header/form/__language/form__language.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
@@ -21,17 +20,18 @@
 @import url(../blocks/intro/__list/intro__list.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/photo-grid/grid-container/grid-container.css);
+@import url(../blocks/photo-grid/__container/photo-grid__container.css);
 
 @import url(../blocks/places/places.css);
-@import url(../blocks/places/place/place.css);
-@import url(../blocks/places/place/__title/place__title.css);
-@import url(../blocks/places/place/__image/place__image.css);
-@import url(../blocks/places/place/__wedsite/place__website.css);
-@import url(../blocks/places/place/__url-heading/place__url-heading.css);
-@import url(../blocks/places/place/__link/place__link.css);
-@import url(../blocks/places/place/__paragraphs/place__paragraphs.css);
-@import url(../blocks/places/place/__paragraph/place__paragraph.css);
+
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__wedsite/place__website.css);
+@import url(../blocks/place/__url-heading/place__url-heading.css);
+@import url(../blocks/place/__link/place__link.css);
+@import url(../blocks/place/__paragraphs/place__paragraphs.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/overlay/cover__overlay.css);

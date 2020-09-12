@@ -1,6 +1,5 @@
 .footer {
     max-width: 1184px;
-    /* margin-left: auto; */
     margin: 0 auto;
     margin-top: 92px;
     margin-bottom: 24px;
@@ -19,7 +18,6 @@
         margin-top: 64px;
         margin-bottom: 24px;
         margin-left: calc((100% - 320px)/2);
-        /* margin-left: 16px; */
     }
 }
 

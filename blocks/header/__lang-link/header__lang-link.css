@@ -7,6 +7,14 @@
     line-height: 28px;
     cursor: pointer;
     text-decoration: none;
+
+    margin-right: 18px;
+    margin-bottom: 0px;
+    padding-bottom: 8px;
+}
+
+.header__lang-link:last-child {
+    margin-right: 0px;
 }
 
 .header__lang-link:hover {
