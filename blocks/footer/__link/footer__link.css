@@ -10,6 +10,10 @@
     margin-left: 18px;
 }
 
+.footer__link:hover {
+    opacity: 0.8;
+}
+
 .footer__link:nth-child(1) {
     margin-left: 0px;
 }

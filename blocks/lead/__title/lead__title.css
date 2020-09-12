@@ -1,4 +1,4 @@
-.title {
+.lead__title {
     font-family: Inter;
     font-style: normal;
     font-weight: 900;
@@ -12,7 +12,7 @@
 }
 
 @media screen and (max-width: 767px) {
-    .title {
+    .lead__title {
         width: 288px;
         height: 88px;
         font-size: 40px;
