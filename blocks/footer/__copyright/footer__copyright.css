@@ -1,14 +1,11 @@
 .footer__copyright {
     max-width: 186px;
-
-    font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 16px;
     text-align: right;
     color: #FFFFFF;
-
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -20,5 +17,6 @@
 @media screen and (max-width: 767px) {
     .footer__copyright {
        margin-left: 16px;
+       margin-top: 16px;
     }
 }
