@@ -9,9 +9,18 @@
     color: #FFFFFF;
     max-width: 159px;
     margin-top: 8px;
-    /* align-self: start; */
-
+    margin-bottom: 0px;
+    align-self: flex-start;
+}
     
-    /* margin-bottom: 0px;
-    margin-left: calc((100% - 984px)/2); */
+@media screen and (max-width: 1023px) {
+    .lead__caption {
+        padding-left: 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .lead__caption {
+        padding-left: 16px;
+    }
 }
