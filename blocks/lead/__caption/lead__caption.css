@@ -9,6 +9,9 @@
     color: #FFFFFF;
     max-width: 159px;
     margin-top: 8px;
-    align-self: start;
-    margin-bottom: 0px;
+    /* align-self: start; */
+
+    
+    /* margin-bottom: 0px;
+    margin-left: calc((100% - 984px)/2); */
 }
